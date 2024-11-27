@@ -1,0 +1,69 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #f8c200;
+}
+
+.navbar a.nav-link {
+    color: #000 !important;
+}
+
+.navbar a.nav-link:hover {
+    color: #fff !important;
+    background-color: #FFD53B;
+}
+
+.header-title {
+    font-family: 'Georgia';
+    color: #f8c200;
+    font-weight: bold;
+}
+
+.table {
+    color: #fff;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+.table-dark {
+    background-color: #333;
+}
+
+.table-bordered {
+    border: 2px solid #f8c200;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: #1e1e1e;
+}
+
+.btn-outline-warning {
+    border-color: #f8c200;
+    color: #f8c200;
+}
+
+.btn-outline-warning:hover {
+    background-color: #f8c200;
+    color: #fff;
+}
+
+.btn-outline-danger {
+    border-color: #ff4444;
+    color: #ff4444;
+}
+
+.btn-outline-danger:hover {
+    background-color: #ff4444;
+    color: #fff;
+}
+
+.alert-warning {
+    background-color: #333;
+    color: #f8c200;
+}

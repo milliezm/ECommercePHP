@@ -1,0 +1,63 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #f8c200;
+}
+
+.navbar a.nav-link {
+    color: #000 !important;
+}
+
+.navbar a.nav-link:hover {
+    color: #fff !important;
+    background-color: #FFD53B;
+}
+
+.header-title {
+    font-family: 'Georgia';
+    color: #f8c200;
+    font-weight: bold;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border: none;
+    border-radius: 10px;
+}
+
+.card-body {
+    color: #fff;
+}
+
+.card-body img {
+    border-radius: 8px;
+}
+
+.card-body .list-unstyled li {
+    font-size: 1.1rem;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-body button {
+    background-color: #f8c200;
+    color: #000;
+    border: none;
+}
+
+.card-body button:hover {
+    background-color: #FFD53B;
+}
+
+.pricing-header {
+    background-color: #212121;
+    color: #f8c200;
+    padding: 50px 0;
+}
+
+.container {
+    padding-top: 30px;
+}
